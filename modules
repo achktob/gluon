@@ -1,8 +1,8 @@
 GLUON_FEEDS='openwrt gluon routing luci'
 
-LEDE_REPO=https://git.lede-project.org/source.git
-LEDE_BRANCH=lede-17.01
-LEDE_COMMIT=6b6578feec74dfe1f5767c573d75ba08cc57c885
+LEDE_REPO=https://github.com/robimarko/source.git
+LEDE_BRANCH=CPE210-v2-clock
+LEDE_COMMIT=e5355d654884f1cdbad010a840cf39a3cf4ca553
 
 PACKAGES_OPENWRT_REPO=https://github.com/openwrt/packages.git
 PACKAGES_OPENWRT_BRANCH=lede-17.01
